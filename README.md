@@ -1,6 +1,6 @@
 This repository contains the experiments, logs, and analysis scripts for evaluating three congestion control algorithms using Pantheon and Mahimahi. 
 
-Experiment Summary
+**Experiment Summary**
 **Protocols compared:**
 
 CUBIC
@@ -22,8 +22,11 @@ Packet loss rate
 **Requirements:**
 
 Linux OS or WSL
+
 Python 3.x
+
 Pantheon (cloned from https://github.com/StanfordSNR/pantheon)
+
 Mahimahi
 
 **Python packages:**
